@@ -1,1 +1,1 @@
-web: gunicorn 'django_react_app.backend.backend.wsgi'
+web: gunicorn backend.backend.wsgi
