@@ -120,5 +120,6 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
 CORS_ORIGIN_WHITELIST = [
-     'https://localhost:3000'
+     'https://localhost:3000',
+     'https://django-react-todo-app.netlify.app'
 ]
